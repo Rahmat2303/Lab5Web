@@ -1,7 +1,6 @@
 # Lab5Web
 ## Belajar javascript
-Untuk menempatkan javascript pada HTML gunakan tag `<script>`. Tag `<script>`bisa disimpan di bagian head, body atau pun di file eksternal.
-
+Untuk menempatkan javascript pada HTML gunakan tag `<script>`.
 Buat file dengan nama lab5_javascript.html, kemudian ketikan kode berikut.
 
 ![Gambar 1](screenshot/ss1a.png)
