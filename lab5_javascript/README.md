@@ -5,7 +5,7 @@ Buat file dengan nama lab5_javascript.html, kemudian ketikan kode berikut.
 
 ![Gambar 1](screenshot/ss1a.png)
 
-Nntuk output dari document.write() langsung muncul di browser.
+Untuk output dari document.write() langsung muncul di browser.
 
 ![Gambar 2](screenshot/ss1b.png)
 
