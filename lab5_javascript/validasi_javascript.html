@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form validasi</title>
+</head>
+<body>
+    <h1>Sign In</h1>
+    <div class="login">
+        <form action="#" method="post" onsubmit="validasi()">
+            <p><label for="username">Username : </label><input type="text" id="username" name="Username"></p>
+            <p><label for="password">Password : </label><input type="text" id="password" name="Password"></p>
+            <p><input type="submit" value="Login"></p>
+        </form>
+    </div>
+</body>
+<script type="text/javascript">
+    function validasi(){
+        var Username = document.getElementById("username").value;
+        var Password = document.getElementById("password").value;
+        if(Username !="" && Password !="") {
+            return true;
+        } else {
+            alert("Tidak boleh ada yang kosong !")
+        }
+    }
+</script>
+</html>
